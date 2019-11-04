@@ -1,0 +1,291 @@
+
+/* Class = "UILabel"; text = "MODE JEU 1 JOUEUR.. SOON"; ObjectID = "0Pg-vi-vnA"; */
+"0Pg-vi-vnA.text" = "MODE JEU 1 JOUEUR.. SOON";
+
+/* Class = "UILabel"; text = "Nombre de victoire Joueur 1"; ObjectID = "0ZO-2d-gj1"; */
+"0ZO-2d-gj1.text" = "Nombre de victoire Joueur 1";
+
+/* Class = "UILabel"; text = "Nombre de regeneration J1"; ObjectID = "1ae-yY-phW"; */
+"1ae-yY-phW.text" = "Nombre de regeneration J1";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "1sa-Zg-DF9"; */
+"1sa-Zg-DF9.text" = "5";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "27E-eE-CIp"; */
+"27E-eE-CIp.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Retour"; ObjectID = "3Ie-LA-aTF"; */
+"3Ie-LA-aTF.normalTitle" = "Retour";
+
+/* Class = "UIButton"; normalTitle = "Regénération"; ObjectID = "50m-qe-hIL"; */
+"50m-qe-hIL.normalTitle" = "Regénération";
+
+/* Class = "UILabel"; text = "Nombre de victoire Joueur 2"; ObjectID = "5xm-Yv-2o2"; */
+"5xm-Yv-2o2.text" = "Nombre de victoire Joueur 2";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6Bc-FN-WYZ"; */
+"6Bc-FN-WYZ.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Erase Score"; ObjectID = "6Jo-oJ-t62"; */
+"6Jo-oJ-t62.normalTitle" = "Erase Score";
+
+/* Class = "UILabel"; text = "Votre nom :"; ObjectID = "6bS-uN-JB3"; */
+"6bS-uN-JB3.text" = "Votre nom :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6zx-82-fE0"; */
+"6zx-82-fE0.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8Gx-NM-nju"; */
+"8Gx-NM-nju.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "MULTI JOUEUR"; ObjectID = "8Ka-ca-Ua0"; */
+"8Ka-ca-Ua0.normalTitle" = "MULTI JOUEUR";
+
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "8NF-qO-WWO"; */
+"8NF-qO-WWO.normalTitle" = "Menu";
+
+/* Class = "UILabel"; text = "Nombre d'esquive J1"; ObjectID = "8cK-8D-hbG"; */
+"8cK-8D-hbG.text" = "Nombre d'esquive J1";
+
+/* Class = "UILabel"; text = "Nombre d'esquive Total"; ObjectID = "8pD-HC-aD2"; */
+"8pD-HC-aD2.text" = "Nombre d'esquive Total";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9Sb-em-wLM"; */
+"9Sb-em-wLM.text" = "0";
+
+/* Class = "UILabel"; text = "VOTRE NOM J1"; ObjectID = "9w9-Vt-hc4"; */
+"9w9-Vt-hc4.text" = "VOTRE NOM J1";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "AXH-Oh-7az"; */
+"AXH-Oh-7az.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Abandonner"; ObjectID = "AZV-Ry-3ZQ"; */
+"AZV-Ry-3ZQ.normalTitle" = "Abandonner";
+
+/* Class = "UIButton"; normalTitle = "Attaque"; ObjectID = "Asa-dQ-Vsm"; */
+"Asa-dQ-Vsm.normalTitle" = "Attaque";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BDK-D2-Zrh"; */
+"BDK-D2-Zrh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BMs-bg-ISl"; */
+"BMs-bg-ISl.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Return Name Player"; ObjectID = "BQJ-cE-BNh"; */
+"BQJ-cE-BNh.normalTitle" = "Return Name Player";
+
+/* Class = "UIButton"; normalTitle = "Jouer"; ObjectID = "BZx-GY-Z2e"; */
+"BZx-GY-Z2e.normalTitle" = "Jouer";
+
+/* Class = "UILabel"; text = "Fond d'écran pendant le jeu"; ObjectID = "Bif-su-vCR"; */
+"Bif-su-vCR.text" = "Fond d'écran pendant le jeu";
+
+/* Class = "UILabel"; text = "RÉGLAGE DU JEU"; ObjectID = "Dvd-dL-HQx"; */
+"Dvd-dL-HQx.text" = "RÉGLAGE DU JEU";
+
+/* Class = "UILabel"; text = "Nombre de partie Joué"; ObjectID = "EG3-xn-shH"; */
+"EG3-xn-shH.text" = "Nombre de partie Joué";
+
+/* Class = "UIButton"; normalTitle = "         "; ObjectID = "Ecw-ug-kh1"; */
+"Ecw-ug-kh1.normalTitle" = "         ";
+
+/* Class = "UILabel"; text = "Regeneration valeur"; ObjectID = "Fxh-up-psX"; */
+"Fxh-up-psX.text" = "Regeneration valeur";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "GaR-B8-Gmh"; */
+"GaR-B8-Gmh.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Rejouer une partie"; ObjectID = "HTg-Vd-nmZ"; */
+"HTg-Vd-nmZ.normalTitle" = "Rejouer une partie";
+
+/* Class = "UITextField"; placeholder = "Joueur 1"; ObjectID = "I1B-ZA-VjL"; */
+"I1B-ZA-VjL.placeholder" = "Joueur 1";
+
+/* Class = "UITextField"; text = "Joueur 1"; ObjectID = "I1B-ZA-VjL"; */
+"I1B-ZA-VjL.text" = "Joueur 1";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "IUC-AW-nMx"; */
+"IUC-AW-nMx.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Retour"; ObjectID = "KKJ-3p-HeX"; */
+"KKJ-3p-HeX.normalTitle" = "Retour";
+
+/* Class = "UIButton"; normalTitle = "Regénération"; ObjectID = "Nny-T9-iuW"; */
+"Nny-T9-iuW.normalTitle" = "Regénération";
+
+/* Class = "UILabel"; text = "Energie Joueur "; ObjectID = "NrK-78-k6I"; */
+"NrK-78-k6I.text" = "Energie Joueur ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Okh-QB-Eks"; */
+"Okh-QB-Eks.text" = "0";
+
+/* Class = "UILabel"; text = "Nombre de temps ouvert"; ObjectID = "PdX-Di-LcH"; */
+"PdX-Di-LcH.text" = "Nombre de temps ouvert";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SFA-Vg-EcY"; */
+"SFA-Vg-EcY.text" = "Label";
+
+/* Class = "UILabel"; text = "Avance"; ObjectID = "ToK-2o-DFZ"; */
+"ToK-2o-DFZ.text" = "Avance";
+
+/* Class = "UILabel"; text = "Nombre d'attaque J2"; ObjectID = "VDo-YC-G8j"; */
+"VDo-YC-G8j.text" = "Nombre d'attaque J2";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "VgO-Ep-FiL"; */
+"VgO-Ep-FiL.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "VwL-ka-7a0"; */
+"VwL-ka-7a0.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "REGLAGE PARTIE"; ObjectID = "XD8-FD-zQV"; */
+"XD8-FD-zQV.normalTitle" = "REGLAGE PARTIE";
+
+/* Class = "UILabel"; text = "Votre nom :"; ObjectID = "XXc-ei-Fb7"; */
+"XXc-ei-Fb7.text" = "Votre nom :";
+
+/* Class = "UIButton"; normalTitle = "Rejouer"; ObjectID = "XmR-20-iWl"; */
+"XmR-20-iWl.normalTitle" = "Rejouer";
+
+/* Class = "UILabel"; text = "Person1"; ObjectID = "Ydj-cA-oEV"; */
+"Ydj-cA-oEV.text" = "Person1";
+
+/* Class = "UILabel"; text = "Nombre de temps de jeu"; ObjectID = "YwL-my-e8c"; */
+"YwL-my-e8c.text" = "Nombre de temps de jeu";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Zbp-jq-74h"; */
+"Zbp-jq-74h.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Attaque"; ObjectID = "aLV-XK-8C5"; */
+"aLV-XK-8C5.normalTitle" = "Attaque";
+
+/* Class = "UILabel"; text = "10              "; ObjectID = "afW-Sp-ibO"; */
+"afW-Sp-ibO.text" = "10              ";
+
+/* Class = "UILabel"; text = "Joueur 2"; ObjectID = "bGg-0i-J04"; */
+"bGg-0i-J04.text" = "Joueur 2";
+
+/* Class = "UILabel"; text = "Change Musique"; ObjectID = "bHh-4k-Ylo"; */
+"bHh-4k-Ylo.text" = "Change Musique";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cA9-sQ-2Qw"; */
+"cA9-sQ-2Qw.text" = "0";
+
+/* Class = "UILabel"; text = "Mode Esquive temps"; ObjectID = "dPf-Uw-LRF"; */
+"dPf-Uw-LRF.text" = "Mode Esquive temps";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "dyx-f4-MXb"; */
+"dyx-f4-MXb.text" = "4";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "e7C-c6-9eR"; */
+"e7C-c6-9eR.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "eQc-Lt-x0C"; */
+"eQc-Lt-x0C.text" = "0";
+
+/* Class = "UILabel"; text = "Joueur 1"; ObjectID = "evq-jV-xo1"; */
+"evq-jV-xo1.text" = "Joueur 1";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "fQ8-Al-1Z9"; */
+"fQ8-Al-1Z9.text" = "10";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "g9X-za-dHb"; */
+"g9X-za-dHb.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "SOLO"; ObjectID = "g9y-Vb-T0U"; */
+"g9y-Vb-T0U.normalTitle" = "SOLO";
+
+/* Class = "UITextField"; placeholder = "Joueur 2"; ObjectID = "h9j-CD-aAO"; */
+"h9j-CD-aAO.placeholder" = "Joueur 2";
+
+/* Class = "UITextField"; text = "Joueur 2"; ObjectID = "h9j-CD-aAO"; */
+"h9j-CD-aAO.text" = "Joueur 2";
+
+/* Class = "UILabel"; text = "Nombre de Regénération Tot"; ObjectID = "hxN-8d-Gqv"; */
+"hxN-8d-Gqv.text" = "Nombre de Regénération Tot";
+
+/* Class = "UILabel"; text = "Nombre de temps écoulé"; ObjectID = "j3X-Fj-mg1"; */
+"j3X-Fj-mg1.text" = "Nombre de temps écoulé";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "k1N-Re-j1h"; */
+"k1N-Re-j1h.text" = "0";
+
+/* Class = "UILabel"; text = "Nombre d'attaque J1"; ObjectID = "lRY-OK-N22"; */
+"lRY-OK-N22.text" = "Nombre d'attaque J1";
+
+/* Class = "UILabel"; text = "Nombre d'esquive J2"; ObjectID = "lzW-VO-btZ"; */
+"lzW-VO-btZ.text" = "Nombre d'esquive J2";
+
+/* Class = "UILabel"; text = "Nombre de regeneration J2"; ObjectID = "n99-tR-CAV"; */
+"n99-tR-CAV.text" = "Nombre de regeneration J2";
+
+/* Class = "UILabel"; text = "Attaque valeur"; ObjectID = "now-kt-0Ia"; */
+"now-kt-0Ia.text" = "Attaque valeur";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "p6f-U6-C4O"; */
+"p6f-U6-C4O.text" = "100";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "pU7-zn-XAF"; */
+"pU7-zn-XAF.text" = "100";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "pZu-F2-43z"; */
+"pZu-F2-43z.text" = "100";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "pvC-I5-OW7"; */
+"pvC-I5-OW7.text" = "100";
+
+/* Class = "UILabel"; text = "VOTRE NOM J2"; ObjectID = "rBo-ss-9NK"; */
+"rBo-ss-9NK.text" = "VOTRE NOM J2";
+
+/* Class = "UILabel"; text = "Temps (sec )/partie "; ObjectID = "s2m-Ni-8d7"; */
+"s2m-Ni-8d7.text" = "Temps (sec )/partie ";
+
+/* Class = "UILabel"; text = "Person2"; ObjectID = "s9g-Is-d6q"; */
+"s9g-Is-d6q.text" = "Person2";
+
+/* Class = "UILabel"; text = "Nombre d'attaque Total"; ObjectID = "tev-U8-Z5j"; */
+"tev-U8-Z5j.text" = "Nombre d'attaque Total";
+
+/* Class = "UILabel"; text = "Nombre d'abandon"; ObjectID = "tm0-rY-OWk"; */
+"tm0-rY-OWk.text" = "Nombre d'abandon";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "u6s-Lp-83p"; */
+"u6s-Lp-83p.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ueW-tS-FXK"; */
+"ueW-tS-FXK.text" = "0";
+
+/* Class = "UILabel"; text = "Avance"; ObjectID = "vYs-bO-h8b"; */
+"vYs-bO-h8b.text" = "Avance";
+
+/* Class = "UIButton"; normalTitle = "Esquive"; ObjectID = "vqR-8e-e05"; */
+"vqR-8e-e05.normalTitle" = "Esquive";
+
+/* Class = "UISegmentedControl"; wGd-vd-YGl.segmentTitles[0] = "Rush"; ObjectID = "wGd-vd-YGl"; */
+"wGd-vd-YGl.segmentTitles[0]" = "Rush";
+
+/* Class = "UISegmentedControl"; wGd-vd-YGl.segmentTitles[1] = "nomusic"; ObjectID = "wGd-vd-YGl"; */
+"wGd-vd-YGl.segmentTitles[1]" = "nomusic";
+
+/* Class = "UIButton"; normalTitle = "Esquive"; ObjectID = "waa-M5-6cD"; */
+"waa-M5-6cD.normalTitle" = "Esquive";
+
+/* Class = "UILabel"; text = "Nombre total de Clic Total"; ObjectID = "wbL-Tl-ays"; */
+"wbL-Tl-ays.text" = "Nombre total de Clic Total";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "wr4-ad-zsJ"; */
+"wr4-ad-zsJ.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Statistiques"; ObjectID = "xBv-hr-WnZ"; */
+"xBv-hr-WnZ.text" = "Statistiques";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ybv-1p-oGT"; */
+"ybv-1p-oGT.text" = "0";
+
+/* Class = "UILabel"; text = "Personnage J2"; ObjectID = "ygW-0J-85k"; */
+"ygW-0J-85k.text" = "Personnage J2";
+
+/* Class = "UILabel"; text = "Nbdetemps Moyen Partie"; ObjectID = "z5Z-28-AgA"; */
+"z5Z-28-AgA.text" = "Nbdetemps Moyen Partie";
+
+/* Class = "UILabel"; text = "Personnage J2"; ObjectID = "zgs-HJ-oJd"; */
+"zgs-HJ-oJd.text" = "Personnage J2";
